@@ -255,7 +255,7 @@ $$x_p = \pm 0.92\left( a\tau_0/\sqrt\pi\right)^{1/3}$$
 $$t_{trap} = |x_p|\frac{R}{c}$$
 
 Среднее число рассеяний:
-$$N_{scat} = 0.6\tau_0\\$$
+$$N_{scat} = 0.6\tau_0$$
 
 Аналогичные соотношения вывел  [**Tasitsiomi, 2006**]
 $$x_p = \pm 0.881\left( a\tau_0\sqrt\pi\right)^{1/3}$$
